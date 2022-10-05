@@ -5,7 +5,7 @@
          
        
 - 👀 I’m interested in Java & SpringBoot
-- 🌱 I’m currently learning for internships or an entry-level job.
+- 🌱 I’m currently seeking for internships or an entry-level job.
 - 📫 you can cantact me using this email: nidhalnaffati@gamil.com
 
 <!---
