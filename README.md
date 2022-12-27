@@ -1,11 +1,5 @@
-- 👋 Hi, I’m Nidhal Naffati
-         I'm a computer science student in the 3rd year who is
-         looking for a internships role where I can grow and learn
-         from experienced team members while drawing on project experience.
-         
-       
-- 👀 I’m interested in Java & SpringBoot
-- 🌱 I’m currently seeking for internships or an entry-level job.
+I am a computer science student in my final year of study, excited to graduate this summer. I am particularly interested in internships related to Java and Spring Boot. I believe that gaining hands-on experience with these technologies would be a valuable asset to my future career as a computer scientist. I am seeking an opportunity to work with experienced professionals in the field and learn from them as I continue to develop my skills and knowledge.
+- 
 - 📫 you can cantact me using this email: nidhalnaffati@gamil.com
 
 <!---
