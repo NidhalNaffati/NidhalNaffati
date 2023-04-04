@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nidhal Naffati</h1>
 <hr>
-<h3 align="center">I am a computer science student in <a href="https://www.fsg.rnu.tn/" target="_blank" rel="noreferrer">Faculty of Science Gabes</a></h3>
+<h3 align="center">I am a computer science student in <a href="http://www.fsg.rnu.tn/" target="_blank" rel="noreferrer">Faculty of Science Gabes</a></h3>
 <br>
 
 ![Computer Science Student](https://media.licdn.com/dms/image/D4D16AQFuvMEsspvZzw/profile-displaybackgroundimage-shrink_350_1400/0/1678102226988?e=1686182400&v=beta&t=eUrCO89vdsP3aCPLC0cCwmYkYGb0LyKT_Y6lFRE734I)
