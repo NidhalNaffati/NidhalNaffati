@@ -3,8 +3,6 @@
 <h3 align="center">I am a computer science student in <a href="http://www.fsg.rnu.tn/" target="_blank" rel="noreferrer">Faculty of Science Gabes</a></h3>
 <br>
 
-![Computer Science Student](https://media.licdn.com/dms/image/D4D16AQFuvMEsspvZzw/profile-displaybackgroundimage-shrink_350_1400/0/1678102226988?e=1686182400&v=beta&t=eUrCO89vdsP3aCPLC0cCwmYkYGb0LyKT_Y6lFRE734I)
-
 I am a computer science student in my final year of study, excited to graduate this summer. I am particularly interested
 in internships related to Java and Spring Boot. I believe that gaining hands-on experience with these technologies would
 be a valuable asset to my future career as a computer scientist. I am seeking an opportunity to work with experienced
