@@ -46,3 +46,5 @@ Versioning :
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.atlassian.com/fr/software/jira" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="50" height="50"/> </a>
 </h4>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhalNaffati)](https://github.com/anuraghazra/github-readme-stats)
