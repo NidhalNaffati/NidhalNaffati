@@ -11,7 +11,7 @@ I am a recent computer science graduate with a strong foundation in Java and Spr
 
 <h3>Connect with me 📫  🤝🏻 :
 <a href="https://www.linkedin.com/in/nidhal-naffati" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="display: inline-block; margin-left: 10px;" /></a></h3>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" style="display: inline-block; margin-left: 10px;" /></a></h3>
 
 <h4> 
 Back-end : 
@@ -20,8 +20,10 @@ Back-end :
 </h4>
 
 <h4> 
-Front-end : 
-<a href="https://bootstrapstudio.io" target="_blank" rel="noreferrer"> <img align="center" src="https://bootstrapstudio.io/assets/img/logo.png" alt="boostrap-logo" width="40" height="40"/> </a>
+Front-end :
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </h4>
 
@@ -38,6 +40,7 @@ Tools :
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </h4>
 
