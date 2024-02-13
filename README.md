@@ -11,7 +11,7 @@ I am a recent computer science graduate with a strong foundation in Java and Spr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,flask,js,ts,nodejs,express,electron" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,flask,js,ts,nodejs,electron" />
   </a>
 </p>
 
