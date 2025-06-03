@@ -34,11 +34,5 @@ I am a recent computer science graduate with a strong foundation in Java and Spr
     <img src="https://skillicons.dev/icons?i=git,linux,docker,maven,gradle,vscode,idea,postman" />
   </a>
 </p>
-
-
-<p align="center">
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NidhalNaffati&layout=compact&langs_count=8&card_width=320" />
-</a>
 </p>
 
